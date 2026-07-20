@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Video Reverser",
+  "version": "1.0",
+  "description": "Play YouTube videos in reverse in real-time.",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"]
+    }
+  ],
+  "action": {
+    "default_title": "YouTube Video Reverser"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "host_permissions": [
+    "http://localhost:3000/*"
+  ]
+}

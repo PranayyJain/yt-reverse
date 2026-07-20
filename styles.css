@@ -1,0 +1,38 @@
+/* Styling for the custom reverse/forward controls in YouTube player */
+.ytp-custom-controls {
+    display: inline-flex;
+    align-items: center;
+    vertical-align: top;
+}
+
+.ytp-reverse-button,
+.ytp-forward-button {
+    transition: opacity 0.1s cubic-bezier(0.4,0.0,1,1);
+}
+
+.ytp-reverse-button svg,
+.ytp-forward-button svg {
+    fill: #fff;
+    width: 100%;
+    height: 100%;
+}
+
+.ytp-reverse-button:hover svg,
+.ytp-forward-button:hover svg {
+    opacity: 0.8;
+}
+
+.ytp-reverse-button.active svg,
+.ytp-forward-button.active svg {
+    fill: #f12b24; /* Active state - YouTube Red */
+}
+
+@keyframes spin-pulse {
+    0% { transform: scale(1); opacity: 0.5; }
+    50% { transform: scale(1.1); opacity: 1; fill: #f12b24; }
+    100% { transform: scale(1); opacity: 0.5; }
+}
+
+.ytp-reverse-button.loading svg {
+    animation: spin-pulse 1s infinite ease-in-out;
+}

@@ -1,0 +1,9 @@
+node_modules/
+backend/node_modules/
+backend/cache_*.m4a
+backend/audio.webm
+backend/audio.mp3
+test_yt.js
+.env
+.DS_Store
+*.log

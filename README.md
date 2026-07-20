@@ -1,6 +1,6 @@
-# ⏪ YT Reverse Extension 🔄
+# ⏪ YT Reverse - YouTube Video & Audio Reversal Extension 🔄
 
-Ever wanted to watch a YouTube video backwards? Now you can! **YT Reverse** is a powerful Chrome Extension that allows you to seamlessly play both the video and audio of any YouTube video in reverse.
+Looking for a **YouTube reversal extension**? **YT Reverse** is the most powerful Chrome Extension that allows you to seamlessly play any YouTube video backwards. Whether you want to reverse YouTube audio, watch a video in reverse, or uncover hidden messages, our tool handles it all in real-time.
 
 ---
 
@@ -57,4 +57,7 @@ We would absolutely **LOVE** your help to make this fully **deployable** and ser
 Let's make YouTube reversing accessible to everyone without needing a local terminal! 🎉
 
 ---
+### 📬 Let's Connect!
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranayyjain/)
+
 *Created by [PranayyJain](https://github.com/PranayyJain)*

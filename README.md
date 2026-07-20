@@ -58,6 +58,6 @@ Let's make YouTube reversing accessible to everyone without needing a local term
 
 ---
 ### 📬 Let's Connect!
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranayyjain/)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-jain-1254a5258/)
 
 *Created by [PranayyJain](https://github.com/PranayyJain)*

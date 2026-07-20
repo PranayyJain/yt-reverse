@@ -10,7 +10,7 @@ Looking for a **YouTube reversal extension**? **YT Reverse** is the most powerfu
 - **Hardware Optimized:** Custom `requestAnimationFrame` video scrubbing to keep your browser running smoothly without thrashing the video decoder.
 - **Seamless UI Integration:** Injects a sleek "Reverse" button directly into the native YouTube player controls!
 
-## 🚀 Use Cases & Origin Story
+## 🙌 Use Cases & Origin Story
 **The Origin Story:** This extension was born out of pure necessity. I was trying to watch a long video on YouTube, but for some bizarre reason, the uploader had completely reversed both the video and the audio! Since I couldn't find any such extension online to fix it, I decided to take on the challenge myself and built this to reverse it back to normal in real-time.
 
 Other great use cases include:

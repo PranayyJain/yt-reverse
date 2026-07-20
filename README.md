@@ -10,7 +10,11 @@ Ever wanted to watch a YouTube video backwards? Now you can! **YT Reverse** is a
 - **Hardware Optimized:** Custom `requestAnimationFrame` video scrubbing to keep your browser running smoothly without thrashing the video decoder.
 - **Seamless UI Integration:** Injects a sleek "Reverse" button directly into the native YouTube player controls!
 
-## 🚀 Use Cases
+## 🚀 Use Cases & Origin Story
+**The Origin Story:** This extension was born out of pure necessity. I was trying to watch a movie on YouTube, but the uploader had reversed the entire video and audio to bypass YouTube's copyright filters! Instead of giving up, I built this extension to reverse it back to normal in real-time. 
+
+Other great use cases include:
+- **Watching Copyright-Reversed Movies:** Easily reverse full-length movies that were uploaded backwards to bypass Content ID.
 - **Easter Eggs & Subliminal Messages:** Hear what that song *really* sounds like when played backwards.
 - **Choreography & Sports:** Watch complex movements, dances, or sports tricks in reverse to understand how they are performed.
 - **Animation & Art:** See how drawings or animations unfold in reverse.

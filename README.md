@@ -15,6 +15,7 @@ Ever wanted to watch a YouTube video backwards? Now you can! **YT Reverse** is a
 
 Other great use cases include:
 - **Watching Copyright-Reversed Movies:** Easily reverse full-length movies that were uploaded backwards to bypass Content ID.
+- **Episode Recaps:** Good to watch a recap like for an episode of what happened previously!
 - **Easter Eggs & Subliminal Messages:** Hear what that song *really* sounds like when played backwards.
 - **Choreography & Sports:** Watch complex movements, dances, or sports tricks in reverse to understand how they are performed.
 - **Animation & Art:** See how drawings or animations unfold in reverse.
